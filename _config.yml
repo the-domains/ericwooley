@@ -1,0 +1,28 @@
+name: ericwooley
+favicon: null
+layout_spectrum: 0.2803907215129584
+typography_spectrum: 0.5173813994042575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1585470314603299
+  lightness: 0.124096141429618
+  saturation: 0.4397798494901508
+  rhythmicContrast: 0.016855645459145308
+purpose: []
