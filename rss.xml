@@ -4,14 +4,15 @@
         <description><![CDATA[Eric Wooley]]></description>
         <link>https://thegrid.ai/ericwooley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Dec 2016 18:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2016 18:58:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ericwooley/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 20 Dec 2016 18:57:06 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Up to speed with ImmutableJS</p>]]></description>
             <link>https://thegrid.ai/ericwooley/up-to-speed-with-immutablejs/index.html</link>
             <guid isPermaLink="false">30b0d1e1-9d57-430c-b3df-5d96e4ac3212</guid>
-            <pubDate>Tue, 20 Dec 2016 18:54:55 GMT</pubDate>
+            <pubDate>Tue, 20 Dec 2016 18:57:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
