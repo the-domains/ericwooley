@@ -1,4 +1,3 @@
-layout_spectrum: 0.7207273858496089
 typography_spectrum: 0.5821009246408386
 color:
   brandColors:
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7207273858496089
 analytics:
   google: null
   facebook: null
@@ -29,5 +29,7 @@ cta:
   bucket: null
   version: null
 favicon: null
+title: Eric Wooley
 content: []
+description: ''
 purpose: []
