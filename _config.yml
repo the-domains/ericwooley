@@ -1,19 +1,4 @@
-name: ericwooley
-favicon: null
-layout_spectrum: 0.2803907215129584
 typography_spectrum: 0.5173813994042575
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#4c5051'
@@ -25,4 +10,24 @@ color:
   lightness: 0.125
   saturation: 0.3125
   rhythmicContrast: 0.25
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2803907215129584
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Eric Wooley
+  email: ericwooley@gmail.com
+name: ericwooley
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+content: []
 purpose: []
