@@ -23,9 +23,9 @@ app_links: []
 isBasedOnUrl: >-
   https://github.com/ericwooley/ericwooley.github.io/blob/master/_posts/2015-04-01-using-immutablejs.markdown
 title: ericwooley/ericwooley.github.io
-datePublished: '2016-12-20T18:49:59.375Z'
-dateModified: '2016-12-20T18:49:28.382Z'
-datePublishedOriginal: '2016-12-20T18:49:59.375Z'
+datePublished: '2016-12-20T18:50:05.014Z'
+dateModified: '2016-12-20T18:49:39.150Z'
+datePublishedOriginal: '2016-12-20T18:50:05.014Z'
 via: {}
 inFeed: true
 starred: false
