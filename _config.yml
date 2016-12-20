@@ -32,4 +32,7 @@ favicon: null
 title: Eric Wooley
 content: []
 description: I code things
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:ericwooley@gmail.com'
+    label: Contact me
