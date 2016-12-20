@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Up to speed with ImmutableJS
-dateModified: '2016-12-20T18:54:46.868Z'
-datePublished: '2016-12-20T18:54:55.793Z'
+dateModified: '2016-12-20T18:57:06.014Z'
+datePublished: '2016-12-20T18:57:06.443Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-20-up-to-speed-with-immutablejs.md
 starred: false
 datePublishedOriginal: '2016-12-20T18:54:55.793Z'
-sourcePath: _posts/2016-12-20-up-to-speed-with-immutablejs.md
 url: up-to-speed-with-immutablejs/index.html
 _type: Article
 
